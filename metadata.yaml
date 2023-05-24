@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '521'
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: https://en.wikipedia.org/wiki/Joseph_McCabe
+covers:
+- cover_type: archival
+  image_path: 70451-h/images/cover.jpg
 creator:
   author:
     agent_name: Bölsche, Wilhelm
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Wilhelm_B%C3%B6lsche
     - https://de.wikipedia.org/wiki/Wilhelm_B%C3%B6lsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70451#Haeckel-b-his-life-and-work
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70451'
